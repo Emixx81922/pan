@@ -1,1 +1,3 @@
-# pan
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://s8.zplayer.live/hls/5fxcvv6rwonufvsa6lte7totwazr7g62ikjy5hstrqdksjsq6xhr74ze6hpa/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://s8.zplayer.live/hls/5fxcvvwrwonufvsa6lte7r6mx2mlx6xwrjawfnhcifbkx46p7dpsl3xrokha/index-v1-a1.m3u8
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png" group-title="AMBA", GARAGE TV https://s10.zplayer.live/hls/5fxcvxorwonufvsa6lte7xojuc62boaarotv7yskdqdd6yomho4mhb5htjfa/index-v1-a1.m3u8
